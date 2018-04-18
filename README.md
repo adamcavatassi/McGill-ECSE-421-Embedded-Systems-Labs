@@ -19,7 +19,7 @@ Students must implement a real-time inference engine based on a provided pre-tra
 
 Position 0           | Position 1          | Position 2
 :-------------------:|:-------------------:|:------------------:
-![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") |![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2") 
+![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2") 
 
 
 ## Lab 4
