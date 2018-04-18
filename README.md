@@ -17,9 +17,9 @@ Using the myRIO-1900, students must initialize the on-board accelerometer. The a
 Students must implement a real-time inference engine based on a pre-trained neural network, named *Position-Net*. Weight matrices are provided to be able to build a fully connected network which uses the sigmoid function as an activation. The pre-trained network accepts a time sample from the five signals acquired in Lab 2 as an input vector, and predicts which of three predetermined positions the myRIO-1900 is currently in. The position classification is indicated by the LEDs on the board.
 
 
-Position 0           | Position 1          | Position 2
-:-------------------:|:-------------------:|:------------------:
-![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2") 
+|Position 0           | Position 1          | Position 2         |
+|:-------------------:|:-------------------:|:------------------:|
+|![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2") |
 
 
 ## Lab 4
