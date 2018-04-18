@@ -19,8 +19,7 @@ Students must implement a real-time inference engine based on a pre-trained neur
 
 Position 0           | Position 1          | Position 2 
 -------------------:|:-------------------:|:------------------
- ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2")
-
+![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2")
 
 ## Lab 4
 Students are to recreate their inference engine from Lab 3 by training the neural network themselves and obtaining their own weight matrices. This requires the implementation of the backpropagation algorithm. A training set of 1500 examples is provided to accomplish the task.
