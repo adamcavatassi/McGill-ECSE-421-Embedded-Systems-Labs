@@ -5,10 +5,10 @@
 Last Update: April 2018
 
 ## Introduction
-The labs in this introductory embedded systems course are based on the labs taken by Dr. Brett Meyer (McGill University) in previous years under the direction of Dr. Jeremy Cooperstock (McGill University). The labs in this course are designed to introduce students to machine learning with an incremental approach, while also challenging students to work in the world of real-time embedded systems. The students work their way up to the final project by implementing the forward and backward pass of a neural network in the labs leading up to the project. The labs allow the students to learn the basics of neural networks with a simple position detection task, making use of the accelerometer in the *National Instruments* **myRIO-1900** development board. This approach allows students to ease their way into the final project, which features a new MNIST-inspired learning task unique from that the previous labs. 
+The labs in this introductory embedded systems course are based on the labs taken by Dr. Brett Meyer (McGill University) in previous years under the direction of Dr. Jeremy Cooperstock (McGill University). These labs are designed to introduce students to machine learning with an incremental approach, while also challenging students to work with the limitations of real-time embedded systems. The students work their way up to the final project by implementing the forward and backward pass of a neural network in the labs leading up to the project. The labs lead the students to learn the basics of neural networks with a simple position detection task, making use of the accelerometer in the *National Instruments* **myRIO-1900** development board. This approach allows students to ease their way into the final project, which features a new MNIST-inspired learning task unique from that the previous labs. 
 
 ## Lab 1
-Serves as an introduction to the *National Instruments* **LabVIEW** environment. Based on the National Instruments finite state machine tutorial, students are required to implement a simple vending machine.
+Serves as an introduction to the *National Instruments* **LabVIEW** environment. Based on the National Instruments finite state machine [tutorial](http://www.ni.com/tutorial/7595/en/), students are required to implement a simple vending machine.
 
 ## Lab 2
 Using the myRIO-1900, students must initialize the on-board accelerometer. The accelerometer signals must be passed through an adjustable lowpass filter and used to compute the roll and pitch angles of the myRIO. These five signals are to be collected into uniform arrays for future use. 
@@ -19,7 +19,7 @@ Students must implement a real-time inference engine based on a pre-trained neur
 
 |Position 0           | Position 1          | Position 2         |
 |:-------------------:|:-------------------:|:------------------:|
-|![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2") |
+| ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos1.png "Position 2") | ![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos2.png "Position 2") |
 
 
 ## Lab 4
