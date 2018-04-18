@@ -14,6 +14,10 @@ Serves as an introduction to the *National Instruments* **LabVIEW** environment.
 Using the myRIO-1900, students must initialize the on-board accelerometer. The accelerometer signals must be passed through an adjustable lowpass filter and used to compute the roll and pitch angles of the myRIO. These five signals are to be collected into uniform arrays for future use. 
 
 ## Lab 3
+Students must implement a real-time inference engine based on a provided pre-trained neural network. The pre-trained network accepts a time sample from the five signals acquired in Lab 2 as an input vector, and predicts which of three predetermined positions the myRIO-1900 is currently in.
+
+![alt text](https://github.com/adamcavatassi/McGill-ECSE-421-Embedded-Systems-Labs/blob/master/Lab%203/Specifications/figs/pos0.png "Position 0")
+
 
 ## Lab 4
 
